@@ -49,3 +49,6 @@ Despite their benefits, generics can introduce certain risks:
 - Legacy code integration can be challenging
 - Version compatibility concerns across different Java versions
 
+#### Referenes
+- Kohnfelder, L. (2021). Designing Secure Software. Random House Publishing Services. https://reader2.yuzu.com/books/9781718501935
+-Richardson, T., & Thies, C. N. (2012). Secure Software Design. Jones & Bartlett Learning. https://reader2.yuzu.com/books/9781284102680
