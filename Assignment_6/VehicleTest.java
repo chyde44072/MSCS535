@@ -1,4 +1,4 @@
-// Base Vehicle class// Base Vehicle class
+// Base Vehicle class
 
 class Vehicle {class Vehicle {
 
@@ -20,7 +20,7 @@ class Vehicle {class Vehicle {
 
 
 
-// SUV class extending Vehicle// SUV class extending Vehicle
+// SUV class extending Vehicle
 
 class SUV extends Vehicle {class SUV extends Vehicle {
 
@@ -46,7 +46,7 @@ class SUV extends Vehicle {class SUV extends Vehicle {
 
 
 
-// SportsCar class extending Vehicle// SportsCar class extending Vehicle
+// SportsCar class extending Vehicle
 
 class SportsCar extends Vehicle {class SportsCar extends Vehicle {
 
@@ -72,7 +72,7 @@ class SportsCar extends Vehicle {class SportsCar extends Vehicle {
 
 
 
-// Hybrid class extending Vehicle// Hybrid class extending Vehicle
+// Hybrid class extending Vehicle
 
 class Hybrid extends Vehicle {class Hybrid extends Vehicle {
 
@@ -98,7 +98,7 @@ class Hybrid extends Vehicle {class Hybrid extends Vehicle {
 
 
 
-// Test class// Test class
+// Test class
 
 public class VehicleTest {public class VehicleTest {
 
